@@ -1,2 +1,10 @@
 # Cybersecurity-Notes
-Master's Degree Course Notes in Cybersecurity
+Dedicated repository for Master's Degree Course Notes in Cybersecurity
+
+
+
+
+
+
+
+
